@@ -1,0 +1,56 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "author_name": "John Doe",
+        "blog_title": "Introduction to Artificial Intelligence",
+        "image": "https://images.pexels.com/photos/3778876/pexels-photo-3778876.jpeg",
+        "blog_cover_image": "https://e0.pxfuel.com/wallpapers/963/402/desktop-wallpaper-computer-programming-coding-technology.jpg",
+        "read_time": "12 minutes",
+        "publish_date": "2024-02-01"
+      },
+      {
+        "id": "a7e41328-8f1a-4ac1-9a90-729b062c5e2f",
+        "author_name": "Jane Smith",
+        "blog_title": "Web Development Best Practices",
+        "image": "https://images.pexels.com/photos/3428742/pexels-photo-3428742.jpeg",
+        "blog_cover_image": "https://www.publicdomainpictures.net/pictures/320000/velka/background-image.png",
+        "read_time": "15 minutes",
+        "publish_date": "2024-02-05"
+      },
+      {
+        "id": "c9b67a8a-8b12-47d5-ba49-5c33df5a6a14",
+        "author_name": "Alex Johnson",
+        "blog_title": "The Future of Space Exploration",
+        "image": "https://images.pexels.com/photos/1134173/pexels-photo-1134173.jpeg",
+        "blog_cover_image": "https://image.freepik.com/free-photo/night-sky-with-milky-way-galaxy_23-2148343431.jpg",
+        "read_time": "20 minutes",
+        "publish_date": "2024-02-10"
+      },
+      {
+        "id": "e14d3a76-80f0-4ec0-b8e3-f42916468de7",
+        "author_name": "Eva Anderson",
+        "blog_title": "Healthy Eating Habits",
+        "image": "https://images.pexels.com/photos/1640775/pexels-photo-1640775.jpeg",
+        "blog_cover_image": "https://www.publicdomainpictures.net/pictures/310000/velka/healthy-food-background.jpg",
+        "read_time": "10 minutes",
+        "publish_date": "2024-02-15"
+      },
+      {
+        "id": "f1e587d9-3b7e-4827-9e57-308b3ec64e71",
+        "author_name": "Michael Brown",
+        "blog_title": "Cybersecurity Tips for Beginners",
+        "image": "https://images.pexels.com/photos/261685/pexels-photo-261685.jpeg",
+        "blog_cover_image": "https://www.publicdomainpictures.net/pictures/320000/velka/cyber-security-concept.jpg",
+        "read_time": "8 minutes",
+        "publish_date": "2024-02-20"
+      },
+      {
+        "id": "67d32aa7-8133-4bc7-9277-5ee8dfe34d47",
+        "author_name": "Sophie Miller",
+        "blog_title": "The Art of Photography",
+        "image": "https://images.pexels.com/photos/1640775/pexels-photo-1640775.jpeg",
+        "blog_cover_image": "https://www.publicdomainpictures.net/pictures/340000/velka/photography-background.jpg",
+        "read_time": "18 minutes",
+        "publish_date": "2024-02-25"
+      }
+]
