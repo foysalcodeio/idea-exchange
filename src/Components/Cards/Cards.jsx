@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 
 
 const Cards = ({ handleAddToBookmark, handleMarkAsRead  }) => {
-    const [info, setInfo] = useState([])
+    const [infos, setInfo] = useState([])
 
     useEffect(() => {
         fetch('blogs.json')
@@ -15,9 +15,9 @@ const Cards = ({ handleAddToBookmark, handleMarkAsRead  }) => {
 
     return (
         <div className='md:w-2/3'>
-            <h1 className='text-3xl'>Blogs : {info.length}</h1>
+            <h1 className='text-3xl mt-5 mb-5'>Total Blogs : {infos.length}</h1>
             {
-                info.map( blog => <Blog
+                infos.map( blog => <Blog
                     key={blog.id}
                     blog={blog}
                     handleAddToBookMark = {handleAddToBookmark}
